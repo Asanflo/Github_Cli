@@ -2,6 +2,7 @@
 
 A simple Command-Line Interface (CLI) tool to fetch and display GitHub user information such as recent events. Built with Python, Click, and the GitHub public API.
 
+Project URL: https://github.com/Asanflo/Github_Cli
 ---
 
 ## Features
