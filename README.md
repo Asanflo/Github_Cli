@@ -61,12 +61,17 @@ Last activities:
 - Starred kamranahmedse/developer-roadmap
 ```
 ---
-## URL
-[Here](https://github.com/Asanflo/Github_Cli) is url of the project
-```text
-https://github.com/Asanflo/Github_Cli
-```
+## Project URL
+You can find the full project here: [GitHub Repository](https://github.com/Asanflo/Github_Cli)
+
 ---
+## Important Files
+
+- [cli.py](https://github.com/Asanflo/Github_Cli/blob/main/github_api/cli.py) – main CLI commands
+- [github_api.py](https://github.com/Asanflo/Github_Cli/blob/main/github_api/github_api.py) – API integration
+- [setup.py](https://github.com/Asanflo/Github_Cli/blob/main/setup.py) – project setup
+--
+
 ## Contributing
 Contributions are welcome! You can add new commands, improve the formatting, or enhance API handling. Please follow these steps:
 
