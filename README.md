@@ -62,7 +62,7 @@ Last activities:
 - Starred kamranahmedse/developer-roadmap
 ```
 ---
-## Project URL: https://github.com/Asanflo/Github_Cli
+## project URL: https://roadmap.sh/projects/github-user-activity
 
 ---
 ## Important Files
