@@ -1,8 +1,8 @@
 from email.policy import default
 
 import click
-from github_api import get_user_events
-from utils import format_event
+from github_api.github_api import get_user_events
+from github_api.utils import format_event
 
 
 @click.group()
@@ -12,7 +12,7 @@ def cli():
 @cli.command()
 @click.argument('username')
 @click.option('--limit', default=10, type=int)
-def github(username, limit):
+def cli(username, limit):
     try:
         events = get_user_events(username, limit)
         if not events:
